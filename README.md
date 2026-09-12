@@ -15,7 +15,8 @@ This project demonstrates how the **PIC16F877A microcontroller** manages multi-p
 
 This is Project 5 - Schematic Capture Simulation showing real-time bus activity and sensor interfacing.
 
-![Proteus Simulation](proteus_screenshot.png) <!-- Rename your screenshot to this name and upload -->
+
+<img width="1600" height="999" alt="image" src="https://github.com/user-attachments/assets/be708d57-5096-4f33-93bf-8ffd109c8867" />
 
 ## 📌 Features
 
